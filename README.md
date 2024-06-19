@@ -1,5 +1,5 @@
 
-# First Github Project | Native SoundCloud Windows App In C#
+# Native SoundCloud Windows App In C#
 # Leave ⭐ If You Like The App
 It has all functions that it needs:
 - Play/Pause Tracks Buttons
@@ -18,6 +18,10 @@ It has all functions that it needs:
 # Download SoundCloud Release:
 Download Release.rar To Get EXE | You Can Find It Here:
 [Release](https://github.com/makufelis/SoundCloud/releases/tag/v1.0.0)
+
+# Suggest New Functions/Submit Issues:
+Create Issue To Suggest Or Inform About Bug In App:
+[Issues](https://github.com/makufelis/SoundCloud/issues)
 
 
 # Everyone can use the code to make it better or make your own project from it.
