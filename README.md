@@ -20,26 +20,37 @@ Project is made with AI Help, but it works :)
 # Screenshots:
 Home Page:
 ![Home](https://i.imgur.com/IsWDePl.png)
+
 Loop:
 ![Loop](https://i.imgur.com/RNREl8y.png)
+
 Shuffle:
 ![Shuffle](https://i.imgur.com/47lPuaA.png)
+
 Search | Users:
 ![Users Search](https://i.imgur.com/hK8jyGO.png)
+
 Search | Tracks:
 ![Tracks Search](https://i.imgur.com/n0le5qd.png)
+
 Search | Playlists:
 ![Playlists Search](https://i.imgur.com/Ev8GypQ.png)
+
 History Of Played Searchs:
 ![History Of Played Searchs](https://i.imgur.com/cDzDpCl.png)
+
 Your Playlists:
 ![Your Playlists](https://i.imgur.com/EGVdFNd.png)
+
 Playlist View:
 ![Playlist View](https://i.imgur.com/OOVgzL5.png)
+
 Overlay:
 ![Overlay](https://i.imgur.com/4vKOOfU.png)
+
 Track Right Click:
 ![Track Right Click](https://i.imgur.com/X8TxJki.png)
+
 Track Right Click | Add To Playlist:
 ![Add To Playlist](https://i.imgur.com/pEaqUpw.png)
 
