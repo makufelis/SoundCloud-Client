@@ -15,6 +15,11 @@ It has all functions that it needs:
 - Playlist Functions (Drag tracks and place them where you want / Load Playlist)
 - Right Click On Tracks (See Track Title, Copy Soundcloud Track Link, Add To Playlist > [Created Playlists])
 
+# Download SoundCloud Release:
+Download Release.rar To Get EXE | You Can Find It Here:
+[Release](https://github.com/makufelis/SoundCloud/releases/tag/v1.0.0)
+
+
 # Everyone can use the code to make it better or make your own project from it.
 Project is made with AI Help, but it works :)
 # Screenshots:
